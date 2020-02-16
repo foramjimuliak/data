@@ -1,0 +1,24 @@
+[
+
+    {
+        "transactionType": "withdrawal",
+        "transactionDate": "12-04-2020",
+        "transactionAmount": 112.12,
+        "currentBalance": 35000,
+        "reference": "sainsburys"
+    },
+    {
+        "transactionType": "withdrawal",
+        "transactionDate": "12-04-2020",
+        "transactionAmount": 112.12,
+        "currentBalance": 35000,
+        "reference": "sainsburys"
+    },
+    {
+        "transactionType": "withdrawal",
+        "transactionDate": "12-04-2020",
+        "transactionAmount": 112.12,
+        "currentBalance": 35000,
+        "reference": "sainsburys"
+    }
+]
